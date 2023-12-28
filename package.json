@@ -5,7 +5,6 @@
   "main": "index.js",
   "repository": "https://github.com/AlexCCarPal/headlessuiclone",
   "license": "MIT",
-  "private": "false",
   "workspaces": [
     "packages/*"
   ],
