@@ -93,7 +93,7 @@ Global scripts, and some aliases:
 
 Scripts per package:
 
-- `yarn react`: Prefix to run anything in the `@headlessui/react` package
+- `yarn react`: Prefix to run anything in the `@headlessuiclone/react` package
   - `yarn react test`: run all jest tests
   - `yarn react test --watch`: run all jest tests in interactive mode
   - `yarn react test tabs`: run all jest tests filtered by `tabs`
@@ -106,7 +106,7 @@ Scripts per package:
   - `yarn react playground`: (alias) start a development server in the `playground-react` package
     - **Note**: this will also run `yarn react watch` for you, which means that you only need to execute `yarn react playground`
   - `yarn react clean`: this will remove `dist` files
-- `yarn vue`: Prefix to run anything in the `@headlessui/vue` package
+- `yarn vue`: Prefix to run anything in the `@headlessuiclone/vue` package
   - `yarn vue test`: run all jest tests
   - `yarn vue test --watch`: run all jest tests in interactive mode
   - `yarn vue test tabs`: run all jest tests filtered by `tabs`

@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Nothing yet!
 
+## [2.0.1] - 2023-12-29
+
+### Changed
+
+- Removed stopPropagation() on Combobox keyPressEvent [Enter]
+
 ## [2.0.0-alpha.3] - 2023-12-20
 
 ### Fixed

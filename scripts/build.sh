@@ -11,7 +11,7 @@ SCRIPT_DIR=$(cd ${0%/*} && pwd -P)
 # Known variables
 SRC='./src'
 DST='./dist'
-name="headlessui"
+name="headlessuiclone"
 input="./${SRC}/index.ts"
 
 # Find executables

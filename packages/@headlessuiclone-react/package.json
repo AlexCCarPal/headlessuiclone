@@ -1,10 +1,10 @@
 {
   "name": "@headlessuiclone/react",
-  "version": "2.0.0-test.1",
+  "version": "2.0.1",
   "description": "A set of completely unstyled, fully accessible UI components for React, designed to integrate beautifully with Tailwind CSS.",
   "main": "dist/index.cjs",
   "typings": "dist/index.d.ts",
-  "module": "dist/headlessui.esm.js",
+  "module": "dist/headlessuiclone.esm.js",
   "license": "MIT",
   "files": [
     "README.md",
@@ -15,7 +15,7 @@
       "import": "./dist/index.d.ts",
       "require": "./dist/index.d.cts"
     },
-    "import": "./dist/headlessui.esm.js",
+    "import": "./dist/headlessuiclone.esm.js",
     "require": "./dist/index.cjs"
   },
   "type": "module",
@@ -26,7 +26,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/AlexCCarPal/headlessuiclone.git",
-    "directory": "packages/@headlessui-react"
+    "directory": "packages/@headlessuiclone-react"
   },
   "publishConfig": {
     "access": "public"

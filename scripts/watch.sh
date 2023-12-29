@@ -3,7 +3,7 @@ set -e
 
 # Known variables
 outdir="./dist"
-name="headlessui"
+name="headlessuiclone"
 input="./src/index.ts"
 
 # Find executables

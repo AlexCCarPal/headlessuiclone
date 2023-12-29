@@ -1,5 +1,5 @@
 <h3 align="center">
-  Headless UI
+  Headless UI Clone
 </h3>
 
 <p align="center">
@@ -17,15 +17,15 @@ For full documentation, visit [headlessui.com](https://headlessui.com).
 
 You can install the latest version by using:
 
-- `npm install @headlessui/react@latest`
-- `npm install @headlessui/vue@latest`
+- `npm install @headlessuiclone/react@latest`
+- `npm install @headlessuiclone/vue@latest`
 
 ### Installing the insiders version
 
 You can install the insiders version (which points to whatever the latest commit on the `main` branch is) by using:
 
-- `npm install @headlessui/react@insiders`
-- `npm install @headlessui/vue@insiders`
+- `npm install @headlessuiclone/react@insiders`
+- `npm install @headlessuiclone/vue@insiders`
 
 **Note:** The insiders build doesn't follow semver and therefore doesn't guarantee that the APIs will be the same once they are released.
 

@@ -1,5 +1,5 @@
 <h3 align="center">
-  @headlessui/vue
+  @headlessuiclone/vue
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 Please note that **this library only supports Vue 3**.
 
 ```sh
-npm install @headlessui/vue
+npm install @headlessuiclone/vue
 ```
 
 ## Documentation

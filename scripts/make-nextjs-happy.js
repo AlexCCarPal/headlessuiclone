@@ -1,7 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import prettier from 'prettier'
-import * as HUI from '../packages/@headlessui-react/src/index.ts'
+import * as HUI from '../packages/@headlessuiclone-react/src/index.ts'
 
 let customRemaps = {
   tab: 'tabs',
@@ -22,7 +22,7 @@ async function run() {
       __dirname,
       '..',
       'packages',
-      '@headlessui-react',
+      '@headlessuiclone-react',
       'src',
       'components',
       name,

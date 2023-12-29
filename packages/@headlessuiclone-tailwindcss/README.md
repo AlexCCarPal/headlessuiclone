@@ -1,5 +1,5 @@
 <h3 align="center">
-  @headlessui/tailwindcss
+  @headlessuiclone/tailwindcss
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ## Installation
 
 ```sh
-npm install @headlessui/tailwindcss
+npm install @headlessuiclone/tailwindcss
 ```
 
 ```js
@@ -26,10 +26,10 @@ module.exports = {
     extend: {},
   },
   plugins: [
-    require('@headlessui/tailwindcss')
+    require('@headlessuiclone/tailwindcss')
 
     // Or with a custom prefix:
-    require('@headlessui/tailwindcss')({ prefix: 'ui' })
+    require('@headlessuiclone/tailwindcss')({ prefix: 'ui' })
   ],
 }
 ```
@@ -51,7 +51,7 @@ following variants:
 Example:
 
 ```js
-import { Menu } from '@headlessui/react'
+import { Menu } from '@headlessuiclone/react'
 
 function MyDropdown() {
   return (

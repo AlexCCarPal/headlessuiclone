@@ -1,10 +1,10 @@
 {
-  "name": "@headlessui/vue",
+  "name": "@headlessuiclone/vue",
   "version": "1.7.16",
   "description": "A set of completely unstyled, fully accessible UI components for Vue 3, designed to integrate beautifully with Tailwind CSS.",
   "main": "dist/index.cjs",
   "typings": "dist/index.d.ts",
-  "module": "dist/headlessui.esm.js",
+  "module": "dist/headlessuiclone.esm.js",
   "license": "MIT",
   "files": [
     "README.md",
@@ -15,7 +15,7 @@
       "import": "./dist/index.d.ts",
       "require": "./dist/index.d.cts"
     },
-    "import": "./dist/headlessui.esm.js",
+    "import": "./dist/headlessuiclone.esm.js",
     "require": "./dist/index.cjs"
   },
   "type": "module",
@@ -25,8 +25,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tailwindlabs/headlessui.git",
-    "directory": "packages/@headlessui-vue"
+    "url": "git+https://github.com/AlexCCarPal/headlessuiclone.git",
+    "directory": "packages/@headlessuiclone-vue"
   },
   "publishConfig": {
     "access": "public"

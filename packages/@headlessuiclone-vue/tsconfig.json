@@ -16,10 +16,9 @@
     "moduleResolution": "node",
     "baseUrl": "./",
     "paths": {
-      "@headlessui/react": ["src"],
+      "@headlessuiclone/vue": ["src"],
       "*": ["src/*", "node_modules/*"]
     },
-    "jsx": "react",
     "esModuleInterop": true,
     "target": "ESNext",
     "allowJs": true,
@@ -29,5 +28,5 @@
     "isolatedModules": true,
     "verbatimModuleSyntax": true
   },
-  "exclude": ["node_modules", "**/*.test.tsx?"]
+  "exclude": ["node_modules", "dist"]
 }
